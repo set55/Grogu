@@ -1,0 +1,21 @@
+{
+    "name": "setsu/grogu",
+    "description": "grogu is cute",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Setsu\\Grogu\\Force\\": "src/Force"
+        }
+    },
+    "authors": [
+        {
+            "name": "set",
+            "email": "peter55605@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    }
+}
